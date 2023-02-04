@@ -12,7 +12,6 @@ def division(n1, n2):
     print(n1/n2)
 
 print("메뉴를 선택하세요> 1: 덧셈, 2:뺄셈, 3:곱셈, 4:나눗셈, 5:종료")
-menunum=10
 while True:
     
     A = int(input('input 1 : '))
